@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/creack/pty"
+	"github.com/aaronjanse/pty"
 )
 
 type testCmd struct {
